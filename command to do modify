@@ -1,0 +1,16 @@
+Clone the repository using:
+
+git clone https://github.com/your-username/repository-name.git
+
+
+Make changes, commit, and push:
+
+
+
+git add .
+git commit -m "Updated feature"
+git push origin main
+
+
+
+Let me know if you need more details! 🚀
